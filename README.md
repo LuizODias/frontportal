@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Se vira aí. Só baixar e da o run, bjo me liga <3
-### Ah, tem uma API localhost aí, eu consumo ela daqui, 
-### mas como não manjo bosta nenhuma do back que tem não mandei, 
-### se quiser cria uma página estática pra vê como tá sendo exibida, tá até legalzinha
+Se vira aí. Só baixar e da o run, bjo me liga <3.
+Ah, tem uma API localhost aí, eu consumo ela daqui, 
+mas como não manjo bosta nenhuma do back em Java, te mandei não, 
+se quiser cria uma página estática pra vê como tá sendo exibida, tá até legalzinha
+
 
 ## Available Scripts
 
